@@ -1,4 +1,4 @@
-#### 安装jar为windows服务 (Install the jar as a windows service)
+#### 安装jar为windows服务 (Install a jar package for windows services)
 
 * 依赖nssm程序，官方地址：[nssm](https://nssm.cc/)
 * 本例运行需要jre或者jdk的1.8版本
